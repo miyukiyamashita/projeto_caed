@@ -1,0 +1,296 @@
+{
+  "modo_split": "arquivo",
+  "n_treino": 15034,
+  "n_teste": 3774,
+  "melhor": "RandomForest (features)",
+  "resultados": {
+    "LogReg (features)": {
+      "cv_f1_macro_media": 0.4603544480985168,
+      "cv_f1_macro_desvio": 0.013265697218161584,
+      "teste_f1_macro": 0.4599968354434625,
+      "teste_acuracia": 0.5217276099629041,
+      "teste_erro_ordinal": 0.7066772655007949,
+      "matriz_confusao": [
+        [
+          395,
+          33,
+          118,
+          75
+        ],
+        [
+          151,
+          84,
+          164,
+          233
+        ],
+        [
+          127,
+          61,
+          432,
+          443
+        ],
+        [
+          79,
+          76,
+          245,
+          1058
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.5252659574468085,
+          "recall": 0.6360708534621579,
+          "f1-score": 0.5753823743627094,
+          "support": 621.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.33070866141732286,
+          "recall": 0.13291139240506328,
+          "f1-score": 0.18961625282167044,
+          "support": 632.0
+        },
+        "Ensino Médio": {
+          "precision": 0.4504692387904067,
+          "recall": 0.4063969896519285,
+          "f1-score": 0.42729970326409494,
+          "support": 1063.0
+        },
+        "Ensino Superior": {
+          "precision": 0.5848535102266446,
+          "recall": 0.7256515775034293,
+          "f1-score": 0.6476890113253749,
+          "support": 1458.0
+        },
+        "accuracy": 0.5217276099629041,
+        "macro avg": {
+          "precision": 0.4728243419702956,
+          "recall": 0.4752577032556447,
+          "f1-score": 0.4599968354434625,
+          "support": 3774.0
+        },
+        "weighted avg": {
+          "precision": 0.494637851705052,
+          "recall": 0.5217276099629041,
+          "f1-score": 0.49700585303250344,
+          "support": 3774.0
+        }
+      }
+    },
+    "RandomForest (features)": {
+      "cv_f1_macro_media": 0.4656262794965452,
+      "cv_f1_macro_desvio": 0.014085952711988913,
+      "teste_f1_macro": 0.47457815756095256,
+      "teste_acuracia": 0.5291467938526762,
+      "teste_erro_ordinal": 0.6801801801801802,
+      "matriz_confusao": [
+        [
+          366,
+          41,
+          134,
+          80
+        ],
+        [
+          124,
+          103,
+          185,
+          220
+        ],
+        [
+          110,
+          46,
+          472,
+          435
+        ],
+        [
+          56,
+          54,
+          292,
+          1056
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.5579268292682927,
+          "recall": 0.5893719806763285,
+          "f1-score": 0.5732184808144087,
+          "support": 621.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.42213114754098363,
+          "recall": 0.1629746835443038,
+          "f1-score": 0.23515981735159816,
+          "support": 632.0
+        },
+        "Ensino Médio": {
+          "precision": 0.4358264081255771,
+          "recall": 0.44402634054562556,
+          "f1-score": 0.43988816402609504,
+          "support": 1063.0
+        },
+        "Ensino Superior": {
+          "precision": 0.5896147403685092,
+          "recall": 0.7242798353909465,
+          "f1-score": 0.6500461680517082,
+          "support": 1458.0
+        },
+        "accuracy": 0.5291467938526762,
+        "macro avg": {
+          "precision": 0.5013747813258407,
+          "recall": 0.48016321003930107,
+          "f1-score": 0.47457815756095256,
+          "support": 3774.0
+        },
+        "weighted avg": {
+          "precision": 0.5130368864643048,
+          "recall": 0.5291467938526762,
+          "f1-score": 0.5087329391974265,
+          "support": 3774.0
+        }
+      }
+    },
+    "GradBoosting (features)": {
+      "cv_f1_macro_media": 0.4650690944591737,
+      "cv_f1_macro_desvio": 0.008999889262339739,
+      "teste_f1_macro": 0.48109788135122444,
+      "teste_acuracia": 0.5389507154213037,
+      "teste_erro_ordinal": 0.6791202967673556,
+      "matriz_confusao": [
+        [
+          386,
+          41,
+          125,
+          69
+        ],
+        [
+          129,
+          104,
+          165,
+          234
+        ],
+        [
+          117,
+          59,
+          459,
+          428
+        ],
+        [
+          73,
+          63,
+          237,
+          1085
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.5475177304964539,
+          "recall": 0.6215780998389694,
+          "f1-score": 0.5822021116138764,
+          "support": 621.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.3895131086142322,
+          "recall": 0.16455696202531644,
+          "f1-score": 0.23136818687430477,
+          "support": 632.0
+        },
+        "Ensino Médio": {
+          "precision": 0.46551724137931033,
+          "recall": 0.431796801505174,
+          "f1-score": 0.4480234260614934,
+          "support": 1063.0
+        },
+        "Ensino Superior": {
+          "precision": 0.5974669603524229,
+          "recall": 0.7441700960219478,
+          "f1-score": 0.662797800855223,
+          "support": 1458.0
+        },
+        "accuracy": 0.5389507154213037,
+        "macro avg": {
+          "precision": 0.5000037602106048,
+          "recall": 0.49052548984785194,
+          "f1-score": 0.48109788135122444,
+          "support": 3774.0
+        },
+        "weighted avg": {
+          "precision": 0.5172582011294466,
+          "recall": 0.5389507154213037,
+          "f1-score": 0.5167939324237044,
+          "support": 3774.0
+        }
+      }
+    },
+    "TF-IDF + LogReg (baseline)": {
+      "cv_f1_macro_media": 0.750822836789971,
+      "cv_f1_macro_desvio": 0.014912709388809335,
+      "teste_f1_macro": 0.7774937793979368,
+      "teste_acuracia": 0.8113407525172232,
+      "teste_erro_ordinal": 0.2485426603073662,
+      "matriz_confusao": [
+        [
+          467,
+          49,
+          78,
+          27
+        ],
+        [
+          118,
+          361,
+          107,
+          46
+        ],
+        [
+          26,
+          39,
+          862,
+          136
+        ],
+        [
+          6,
+          10,
+          70,
+          1372
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.7568881685575365,
+          "recall": 0.7520128824476651,
+          "f1-score": 0.7544426494345718,
+          "support": 621.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.7864923747276689,
+          "recall": 0.5712025316455697,
+          "f1-score": 0.6617781851512374,
+          "support": 632.0
+        },
+        "Ensino Médio": {
+          "precision": 0.7717099373321397,
+          "recall": 0.8109125117591721,
+          "f1-score": 0.7908256880733945,
+          "support": 1063.0
+        },
+        "Ensino Superior": {
+          "precision": 0.8678051865907653,
+          "recall": 0.9410150891632373,
+          "f1-score": 0.9029285949325436,
+          "support": 1458.0
+        },
+        "accuracy": 0.8113407525172232,
+        "macro avg": {
+          "precision": 0.7957239168020275,
+          "recall": 0.768785753753911,
+          "f1-score": 0.7774937793979368,
+          "support": 3774.0
+        },
+        "weighted avg": {
+          "precision": 0.8088707893310857,
+          "recall": 0.8113407525172232,
+          "f1-score": 0.8065369094192153,
+          "support": 3774.0
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "modo_split": "arquivo",
+  "n_treino": 7530,
+  "n_teste": 1887,
+  "melhor": "Híbrido (features + TF-IDF)",
+  "resultados": {
+    "LogReg (features)": {
+      "cv_f1_macro_media": 0.5657496423225271,
+      "cv_f1_macro_desvio": 0.016574406821685143,
+      "teste_f1_macro": 0.5857504954708337,
+      "teste_acuracia": 0.5940646528881823,
+      "teste_erro_ordinal": 0.5453100158982512,
+      "matriz_confusao": [
+        [
+          251,
+          37,
+          16,
+          8
+        ],
+        [
+          82,
+          160,
+          43,
+          30
+        ],
+        [
+          43,
+          89,
+          261,
+          140
+        ],
+        [
+          20,
+          118,
+          140,
+          449
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.6338383838383839,
+          "recall": 0.8044871794871795,
+          "f1-score": 0.7090395480225988,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.39603960396039606,
+          "recall": 0.5079365079365079,
+          "f1-score": 0.44506258692628653,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.5673913043478261,
+          "recall": 0.4896810506566604,
+          "f1-score": 0.525679758308157,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.7161084529505582,
+          "recall": 0.6176066024759285,
+          "f1-score": 0.6632200886262924,
+          "support": 727.0
+        },
+        "accuracy": 0.5940646528881823,
+        "macro avg": {
+          "precision": 0.5783444362742911,
+          "recall": 0.6049278351390691,
+          "f1-score": 0.5857504954708337,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.6070696669409367,
+          "recall": 0.5940646528881823,
+          "f1-score": 0.59552907762289,
+          "support": 1887.0
+        }
+      }
+    },
+    "RandomForest (features)": {
+      "cv_f1_macro_media": 0.5649369168942757,
+      "cv_f1_macro_desvio": 0.01387712919675305,
+      "teste_f1_macro": 0.5861991881089476,
+      "teste_acuracia": 0.604133545310016,
+      "teste_erro_ordinal": 0.5601483836777954,
+      "matriz_confusao": [
+        [
+          239,
+          29,
+          32,
+          12
+        ],
+        [
+          63,
+          123,
+          62,
+          67
+        ],
+        [
+          43,
+          45,
+          308,
+          137
+        ],
+        [
+          33,
+          78,
+          146,
+          470
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.6322751322751323,
+          "recall": 0.7660256410256411,
+          "f1-score": 0.6927536231884058,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.44727272727272727,
+          "recall": 0.3904761904761905,
+          "f1-score": 0.41694915254237286,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.5620437956204379,
+          "recall": 0.5778611632270169,
+          "f1-score": 0.5698427382053654,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.685131195335277,
+          "recall": 0.6464924346629987,
+          "f1-score": 0.6652512384996462,
+          "support": 727.0
+        },
+        "accuracy": 0.604133545310016,
+        "macro avg": {
+          "precision": 0.5816807126258936,
+          "recall": 0.5952138573479618,
+          "f1-score": 0.5861991881089476,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.6019186393403233,
+          "recall": 0.604133545310016,
+          "f1-score": 0.6014000759609606,
+          "support": 1887.0
+        }
+      }
+    },
+    "GradBoosting (features)": {
+      "cv_f1_macro_media": 0.5612795348110052,
+      "cv_f1_macro_desvio": 0.00823892798277084,
+      "teste_f1_macro": 0.5853566978369938,
+      "teste_acuracia": 0.6157922628510863,
+      "teste_erro_ordinal": 0.5373608903020668,
+      "matriz_confusao": [
+        [
+          219,
+          28,
+          46,
+          19
+        ],
+        [
+          56,
+          103,
+          70,
+          86
+        ],
+        [
+          34,
+          29,
+          303,
+          167
+        ],
+        [
+          19,
+          47,
+          124,
+          537
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.6676829268292683,
+          "recall": 0.7019230769230769,
+          "f1-score": 0.684375,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.4975845410628019,
+          "recall": 0.326984126984127,
+          "f1-score": 0.3946360153256705,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.5580110497237569,
+          "recall": 0.5684803001876173,
+          "f1-score": 0.5631970260223048,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.6637824474660075,
+          "recall": 0.7386519944979367,
+          "f1-score": 0.69921875,
+          "support": 727.0
+        },
+        "accuracy": 0.6157922628510863,
+        "macro avg": {
+          "precision": 0.5967652412704587,
+          "recall": 0.5840098746481894,
+          "f1-score": 0.5853566978369938,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.6068075953450259,
+          "recall": 0.6157922628510863,
+          "f1-score": 0.6074994122668121,
+          "support": 1887.0
+        }
+      }
+    },
+    "Híbrido (features + TF-IDF)": {
+      "cv_f1_macro_media": 0.7729810989962672,
+      "cv_f1_macro_desvio": 0.012759959400669872,
+      "teste_f1_macro": 0.8195339513939002,
+      "teste_acuracia": 0.8426073131955485,
+      "teste_erro_ordinal": 0.21144674085850557,
+      "matriz_confusao": [
+        [
+          270,
+          20,
+          14,
+          8
+        ],
+        [
+          61,
+          219,
+          26,
+          9
+        ],
+        [
+          19,
+          33,
+          439,
+          42
+        ],
+        [
+          14,
+          16,
+          35,
+          662
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.7417582417582418,
+          "recall": 0.8653846153846154,
+          "f1-score": 0.7988165680473372,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.7604166666666666,
+          "recall": 0.6952380952380952,
+          "f1-score": 0.7263681592039801,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.8540856031128404,
+          "recall": 0.8236397748592871,
+          "f1-score": 0.8385864374403056,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.9181692094313454,
+          "recall": 0.9105914718019257,
+          "f1-score": 0.914364640883978,
+          "support": 727.0
+        },
+        "accuracy": 0.8426073131955485,
+        "macro avg": {
+          "precision": 0.8186074302422736,
+          "recall": 0.8237134893209809,
+          "f1-score": 0.8195339513939002,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.8445662231819308,
+          "recall": 0.8426073131955485,
+          "f1-score": 0.8424729223414721,
+          "support": 1887.0
+        }
+      }
+    },
+    "Palavras comuns (300) (controle)": {
+      "cv_f1_macro_media": 0.6810325340880461,
+      "cv_f1_macro_desvio": 0.01193323974080289,
+      "teste_f1_macro": 0.6950576302495781,
+      "teste_acuracia": 0.7239003709591945,
+      "teste_erro_ordinal": 0.3502914679385268,
+      "matriz_confusao": [
+        [
+          233,
+          49,
+          23,
+          7
+        ],
+        [
+          76,
+          186,
+          38,
+          15
+        ],
+        [
+          29,
+          90,
+          342,
+          72
+        ],
+        [
+          11,
+          37,
+          74,
+          605
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.667621776504298,
+          "recall": 0.7467948717948718,
+          "f1-score": 0.7049924357034796,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.5138121546961326,
+          "recall": 0.5904761904761905,
+          "f1-score": 0.5494830132939439,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.7169811320754716,
+          "recall": 0.6416510318949343,
+          "f1-score": 0.6772277227722773,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.8655221745350501,
+          "recall": 0.8321870701513068,
+          "f1-score": 0.8485273492286115,
+          "support": 727.0
+        },
+        "accuracy": 0.7239003709591945,
+        "macro avg": {
+          "precision": 0.6909843094527381,
+          "recall": 0.7027772910793258,
+          "f1-score": 0.6950576302495781,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.7321326906633971,
+          "recall": 0.7239003709591945,
+          "f1-score": 0.7264899566793335,
+          "support": 1887.0
+        }
+      }
+    },
+    "Features + palavras comuns (300)": {
+      "cv_f1_macro_media": 0.7213444669211564,
+      "cv_f1_macro_desvio": 0.005742199050801121,
+      "teste_f1_macro": 0.7474061561916783,
+      "teste_acuracia": 0.7673555908850026,
+      "teste_erro_ordinal": 0.29252782193958665,
+      "matriz_confusao": [
+        [
+          259,
+          37,
+          12,
+          4
+        ],
+        [
+          59,
+          206,
+          32,
+          18
+        ],
+        [
+          23,
+          66,
+          371,
+          73
+        ],
+        [
+          9,
+          34,
+          72,
+          612
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.74,
+          "recall": 0.8301282051282052,
+          "f1-score": 0.7824773413897281,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.6005830903790087,
+          "recall": 0.653968253968254,
+          "f1-score": 0.6261398176291794,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.7618069815195072,
+          "recall": 0.6960600375234521,
+          "f1-score": 0.7274509803921568,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.8656294200848657,
+          "recall": 0.8418156808803301,
+          "f1-score": 0.8535564853556485,
+          "support": 727.0
+        },
+        "accuracy": 0.7673555908850026,
+        "macro avg": {
+          "precision": 0.7420048729958455,
+          "recall": 0.7554930443750603,
+          "f1-score": 0.7474061561916783,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.7712874313836685,
+          "recall": 0.7673555908850026,
+          "f1-score": 0.7682214681872617,
+          "support": 1887.0
+        }
+      }
+    },
+    "TF-IDF + LogReg (baseline)": {
+      "cv_f1_macro_media": 0.822526064019781,
+      "cv_f1_macro_desvio": 0.012848346518037687,
+      "teste_f1_macro": 0.8457358252080177,
+      "teste_acuracia": 0.8669846316905141,
+      "teste_erro_ordinal": 0.16375198728139906,
+      "matriz_confusao": [
+        [
+          271,
+          24,
+          14,
+          3
+        ],
+        [
+          56,
+          234,
+          19,
+          6
+        ],
+        [
+          15,
+          28,
+          446,
+          44
+        ],
+        [
+          4,
+          9,
+          29,
+          685
+        ]
+      ],
+      "relatorio": {
+        "Ensino Fundamental I": {
+          "precision": 0.7832369942196532,
+          "recall": 0.8685897435897436,
+          "f1-score": 0.8237082066869301,
+          "support": 312.0
+        },
+        "Ensino Fundamental II": {
+          "precision": 0.7932203389830509,
+          "recall": 0.7428571428571429,
+          "f1-score": 0.7672131147540984,
+          "support": 315.0
+        },
+        "Ensino Médio": {
+          "precision": 0.8779527559055118,
+          "recall": 0.8367729831144465,
+          "f1-score": 0.8568683957732949,
+          "support": 533.0
+        },
+        "Ensino Superior": {
+          "precision": 0.9281842818428184,
+          "recall": 0.9422283356258597,
+          "f1-score": 0.9351535836177475,
+          "support": 727.0
+        },
+        "accuracy": 0.8669846316905141,
+        "macro avg": {
+          "precision": 0.8456485927377586,
+          "recall": 0.8476120512967982,
+          "f1-score": 0.8457358252080177,
+          "support": 1887.0
+        },
+        "weighted avg": {
+          "precision": 0.8675003395726336,
+          "recall": 0.8669846316905141,
+          "f1-score": 0.8665800751834297,
+          "support": 1887.0
+        }
+      }
+    }
+  }
+}

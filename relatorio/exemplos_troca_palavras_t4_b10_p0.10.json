@@ -1,0 +1,253 @@
+[
+  {
+    "indice_amostra": 0,
+    "original": "O Brasil era uma espécie de galinha dos ovos de ouro de Portugal, a quem tinha de fornecer riquezas e mais riquezas, mesmo à custa de muito sacrifício. Além disso, não podia fazer nada por conta própria, como leis, escolher governantes ou vender mercadorias para outros países. Não podia tomar nenhum tipo de decisão! Nessa época, a maioria dos países europeus tinham suas colônias no \"Novo Mundo\" (a América) e na África.",
+    "mutado": "O Brasil era uma espécie de galinha dos ovos de ouro de Portugal, a quem tinha de fornecer riquezas e mais riquezas, mesmo à custa de muito sacrifício. Além disso, não podia fazer nada por conta própria, como leis, escolher governantes ou vender mercadorias para outros países. Não podia tomar nenhum tipo de decisão! Nessa época, a maioria dos países europeus tinham suas colônias no \"Novo Mundo\" (a América) e na África.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 1,
+    "original": "Para os portugueses que moravam no Brasil, não havia leis nem organização. Navegadores ingleses, franceses e de outros países também vinham aqui explorar nossas terras, levar nosso pau-brasil.",
+    "mutado": "Para os portugueses que moravam no Brasil, não havia leis nem organização. Navegadores ingleses, franceses e de outros países também vinham aqui explorar nossas terras, levar nosso pau-brasil.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 2,
+    "original": "Para evitar que cachorros e gatos fiquem gripados, é importante fazer todas as vacinas. O banho tem de ser em um lugar protegido do vento, e é preciso secar bem o animal, com uma toalha felpuda. Cachorros de pêlo curto podem ser agasalhados com uma roupa, mas os gatos não gostam de andar vestidos. Para aquecer animais que dormem no pátio de casa, deve ser usada uma casa ou um tablado de madeira.",
+    "mutado": "Para evitar que cachorros e gatos fiquem gripados, é importante fazer todas as vacinas. O banho tem de ser em um lugar protegido do vento, e é preciso secar bem o animal, com uma toalha felpuda. Cachorros de pêlo curto podem ser agasalhados com uma roupa, mas os gatos não gostam de andar vestidos. Para aquecer animais que dormem no pátio de casa, deve ser usada uma casa ou um tablado de madeira.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 3,
+    "original": "Eles correm pra valer. É a modalidade mais rápida das Olimpíadas, nas provas de velocidade; e, nas corridas de estrada, é a mais comprida: nas provas masculinas, chega-se a mais de 228 quilômetros, e a mais de 128 nas femininas. As provas de velocidade são disputadas em um estádio chamado velódromo. A pista onde as bicicletas quase voam é oval e tem 42 graus de inclinação, quase a metade de um ângulo reto.",
+    "mutado": "Eles correm pra valer. É a modalidade mais rápida das Olimpíadas, nas provas de velocidade; e, nas corridas de estrada, é a mais comprida: nas provas masculinas, chega-se a mais de 228 quilômetros, e a mais de 128 nas femininas. As provas de velocidade são disputadas em um estádio chamado velódromo. A pista onde as bicicletas quase voam é oval e tem 42 graus de inclinação, quase a metade de um ângulo reto.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 4,
+    "original": "Seis missões tripuladas chegaram à Lua, entre 1969 e 1972. Em algumas delas, os astronautas utilizaram um jipe lunar para explorar locais distantes da área de aterrissagem. Além de tirarem milhares de fotografias, essas expedições coletaram amostras de rochas e solo. Também realizaram vários experimentos científicos para descobrir mais sobre a estrutura interna do nosso satélite natural. As pegadas deixadas pelos astronautas que se aventuraram por lá vão existir por milhares de anos, porque na Lua não existe vento ou chuva...",
+    "mutado": "Seis missões tripuladas chegaram à Lua, entre 1969 e 1972. Em algumas delas, os astronautas utilizaram um jipe lunar para explorar locais distantes da área de aterrissagem. Além de tirarem milhares de fotografias, essas expedições coletaram amostras de rochas e solo. Também realizaram vários experimentos científicos para descobrir mais sobre a estrutura interna do nosso satélite natural. As pegadas deixadas pelos astronautas que se aventuraram por lá vão existir por milhares de anos, porque na Lua não existe vento ou chuva...",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 5,
+    "original": "Se um país é muito povoado não significa necessariamente que ele seja bastante populoso. Você sabe qual a diferença? \"Populoso\" tem a ver com a população absoluta, o número total de habitantes. Já o termo \"povoado\" leva em conta também como as pessoas se distribuem no território.",
+    "mutado": "Se um país é muito povoado não significa necessariamente que ele seja bastante populoso. Você sabe qual a diferença? \"Populoso\" tem a ver com a população absoluta, o número total de habitantes. Já o termo \"povoado\" leva em conta também como as pessoas se distribuem no território.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 6,
+    "original": "Só as crianças (pequenas ou adultas) vão se divertir. (Thiago Stivaletti) ﻿ Na língua escrita, não contamos com os mesmos recursos usados na língua falada: os gestos, as expressões faciais, a entonação da voz, o olhar, etc. E por isso que usamos a pontuação. A pontuação ajuda o leitor a construir e compreender o sentido de um texto.",
+    "mutado": "Só as crianças (pequenas ou adultas) vão se divertir. (Thiago Stivaletti) ﻿ Na língua escrita, não contamos com os mesmos recursos usados na língua falada: os gestos, as expressões faciais, a entonação da voz, o olhar, etc. E por isso que usamos a pontuação. A pontuação ajuda o leitor a construir e compreender o sentido de um texto.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 7,
+    "original": "Isso será parecido com um eclipse, quando a Lua fica entre a Terra e o Sol. Por estar muito longe, Mercúrio aparecerá bem pequeno, como um pontinho preto na frente do Sol. Para ver, é preciso ter muito cuidado com os olhos, porque os raios solares podem machucar os olhos.",
+    "mutado": "Isso será parecido com um eclipse, quando a Lua fica entre a Terra e o Sol. Por estar muito longe, Mercúrio aparecerá bem pequeno, como um pontinho preto na frente do Sol. Para ver, é preciso ter muito cuidado com os olhos, porque os raios solares podem machucar os olhos.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 8,
+    "original": "Mas só um brasileiro já conseguiu realizar esse sonho, e foi no ano passado. O nome dele é Marcos Pontes, e ele participou da primeira missão científica espacial brasileira, que saiu no dia 30 de março e voltou à Terra no dia 9 de abril. O destino era a Estação Espacial Internacional, chamada de ISS. Para quem não lembra, foi ele quem plantou um feijãozinho em um algodão, em plena órbita, assim como se faz nas aulas de ciências.",
+    "mutado": "Mas só um brasileiro já conseguiu realizar esse sonho, e foi no ano passado. O nome dele é Marcos Pontes, e ele participou da primeira missão científica espacial brasileira, que saiu no dia 30 de março e voltou à Terra no dia 9 de abril. O destino era a Estação Espacial Internacional, chamada de ISS. Para quem não lembra, foi ele quem plantou um feijãozinho em um algodão, em plena órbita, assim como se faz nas aulas de ciências.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 9,
+    "original": "No começo do século 20, as pessoas que moravam no Brasil ainda não tinham descoberto que ser brasileiro era uma coisa especial. Naquela época, o quente era copiar as coisas que vinham da Europa. A música, a pintura e a literatura feitas aqui, de brasileiras, só tinham o nome, porque pareciam mais traduções das artes européias. Até que um grupo de pessoas parou para pensar: \"poxa, nosso país é tão bonito, tem uma cultura tão rica!",
+    "mutado": "No começo do século 20, as pessoas que moravam no Brasil ainda não tinham descoberto que ser brasileiro era uma coisa especial. Naquela época, o quente era copiar as coisas que vinham da Europa. A música, a pintura e a literatura feitas aqui, de brasileiras, só tinham o nome, porque pareciam mais traduções das artes européias. Até que um grupo de pessoas parou para pensar: \"poxa, nosso país é tão bonito, tem uma cultura tão rica!",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 10,
+    "original": "350 projetos, entre engenhocas e pesquisas das mais diversas áreas do conhecimento humano. Por trás do deslumbre com o divertido \"intercâmbio cultural\", dedos cruzados nas costas para conquistar um dos maiores prémios da Mostratec uma vaga na Isef, nos EUA, a feira dos sonhos de qualquer inventor. Ali, meses de estudo e dedicação eram colocados finalmente, à prova por uma equipe de avaliadores. \"Dá um frio na barriga, mas eles não são carrascos\", brinca Juliana, 16, que veio à feira com a ajuda de custo oferecida por sua escola, em Imperatriz (MA): RS 1000,00.",
+    "mutado": "350 projetos, entre engenhocas e pesquisas das mais diversas áreas do conhecimento humano. Por trás do deslumbre com o divertido \"intercâmbio cultural\", dedos cruzados nas costas para conquistar um dos maiores prémios da Mostratec uma vaga na Isef, nos EUA, a feira dos sonhos de qualquer inventor. Ali, meses de estudo e dedicação eram colocados finalmente, à prova por uma equipe de avaliadores. \"Dá um frio na barriga, mas eles não são carrascos\", brinca Juliana, 16, que veio à feira com a ajuda de custo oferecida por sua escola, em Imperatriz (MA): RS 1000,00.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 11,
+    "original": "Leonardo Da Vinci foi aclamado como um dos maiores expoentes dessa nova tendência. Dono de uma curiosidade voraz, esse italiano atuou em variados campos do conhecimento e da arte. Em alguns de seus manuscritos remanescentes temos a presença de propostas e invenções que falam sobre música, filosofia, botânica, escultura, pintura, urbanismo e engenharia. Atirando para todo o lado, ele acabou sendo um dos primeiros a teorizar uma solução para os problemas de visão.",
+    "mutado": "Leonardo Da Vinci foi aclamado como um dos maiores expoentes dessa nova tendência. Dono de uma curiosidade voraz, esse italiano atuou em variados terrenos do conhecimento e da arte. Em alguns de seus manuscritos remanescentes temos a presença de propostas e invenções que falam sobre música, filosofia, botânica, escultura, pintura, urbanismo e engenharia. Atirando para todo o lado, ele acabou sendo um dos primeiros a teorizar uma solução para os problemas de visão.",
+    "quantidade_alteracoes": 1,
+    "alteracoes": [
+      {
+        "original": "campos",
+        "novo": "terrenos",
+        "posicao": 146,
+        "motivo": "compatibilidade_morfologica_e_contextual"
+      }
+    ]
+  },
+  {
+    "indice_amostra": 12,
+    "original": "Esse esporte começou a ser praticado na década de1980 nos campos de escalada do Vale de Yosemite, nos Estados Unidos. Os escaladores passavam semanas acampando em busca de novos locais de escalada e, no tempo vago, esticavam as suas fitas de escalada para se equilibrar e caminhar. A flexibilidade da fita do slackline permite realizar saltos e manobras inusitadas. Combater gigantes e dragões, salvar donzelas indefesas, lutar contra a tirania dos poderosos, ser fiel a uma dama – eis o mundo aventuresco dos heróis das novelas de cavalaria medievais.",
+    "mutado": "Esse esporte começou a ser praticado na década de1980 nos campos de escalada do Vale de Yosemite, nos Estados Unidos. Os escaladores passavam semanas acampando em busca de novos locais de escalada e, no tempo vago, esticavam as suas fitas de escalada para se equilibrar e caminhar. A flexibilidade da fita do slackline permite realizar saltos e manobras inusitadas. Combater gigantes e dragões, salvar donzelas indefesas, lutar contra a tirania dos poderosos, ser fiel a uma dama – eis o mundo aventuresco dos heróis das novelas de cavalaria medievais.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 13,
+    "original": "“O que os estudos colocam de forma muito veemente é que existe uma sinergia entre estes dois fatores. Quando há desmatamento, o tatu-bola se afugenta daquela área, passando a deslocar mais e a se concentrar em outras áreas, ou seja, ele fica mais suscetível à caça”, afirma Ugo Vercillo, coordenador-geral de manejo para conservação do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). Os ambientalistas lamentam que a escolha do tatu-bola como mascote da Copa tenha surtido poucos resultados, até agora, para a prevenção da espécie. Segundo Rodrigo Castro, 1 milhão de pelúcias do personagem Fuleco estão sendo fabricadas na China, mas nem um centavo da venda dos produtos será destinado ao plano de conservação.",
+    "mutado": "“O que os estudos colocam de forma muito veemente é que existe uma sinergia entre estes dois fatores. Quando há desmatamento, o tatu-bola se afugenta daquela área, passando a deslocar mais e a se concentrar em outras áreas, ou seja, ele fica mais suscetível à caça”, afirma Ugo Vercillo, coordenador-geral de manejo para conservação do Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio). Os ambientalistas lamentam que a escolha do tatu-bola como mascote da Copa tenha surtido poucos resultados, até agora, para a prevenção da espécie. Segundo Rodrigo Castro, 1 milhão de pelúcias do personagem Fuleco estão sendo fabricadas na China, mas nem um centavo da venda dos produtos será destinado ao plano de conservação.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 14,
+    "original": "Biologia. A Hepatite D, também chamada de Delta, é causada pelo vírus D ou VHD e acontece em praticamente todo o mundo. No Brasil, o maior número de casos dessa doença ocorre em áreas da Amazônia. Uma característica peculiar desse tipo de hepatite é que ela só se manifesta se a pessoa também estiver infectada pelo vírus da Hepatite B.",
+    "mutado": "Biologia. A Hepatite D, também chamada de Delta, é causada pelo vírus D ou VHD e acontece em praticamente todo o mundo. No Brasil, o importante número de exemplos dessa doença ocorre em áreas da Amazônia. Uma característica peculiar desse tipo de hepatite é que ela só se manifesta se a pessoa também estiver infectada pelo vírus da Hepatite B.",
+    "quantidade_alteracoes": 2,
+    "alteracoes": [
+      {
+        "original": "maior",
+        "novo": "importante",
+        "posicao": 133,
+        "motivo": "compatibilidade_morfologica_e_contextual"
+      },
+      {
+        "original": "casos",
+        "novo": "exemplos",
+        "posicao": 149,
+        "motivo": "compatibilidade_morfologica_e_contextual"
+      }
+    ]
+  },
+  {
+    "indice_amostra": 15,
+    "original": "Sociologia. O conceito de justiça social está fundamentado em certos preceitos morais e políticos que cuidam de questões como igualdade de direitos, garantia de direitos básicos e, ainda, solidariedade coletiva. De várias maneiras, a noção de justiça social deriva da luta pela melhoria das condições sociais daqueles que vivem em situação precária. As maneiras como esse objetivo pode ser alcançado variam de acordo com os meios propostos, o que, por sua vez, está relacionado com o contexto ideológico daqueles que adotam a visão.",
+    "mutado": "Sociologia. O conceito de justiça social está fundamentado em certos preceitos morais e políticos que cuidam de questões como igualdade de direitos, garantia de direitos básicos e, ainda, solidariedade coletiva. De várias maneiras, a noção de justiça social deriva da luta pela melhoria das condições sociais daqueles que vivem em condição precária. As maneiras como esse objetivo pode ser alcançado variam de acordo com os meios propostos, o que, por sua vez, está relacionado com o contexto ideológico daqueles que adotam a visão.",
+    "quantidade_alteracoes": 1,
+    "alteracoes": [
+      {
+        "original": "situação",
+        "novo": "condição",
+        "posicao": 331,
+        "motivo": "compatibilidade_morfologica_e_contextual"
+      }
+    ]
+  },
+  {
+    "indice_amostra": 16,
+    "original": "Mas não adiantava chorar. Então fui à luta. Nghia comprou dicionários usados de português nos sebos. Aos poucos, com ajuda de colegas, foi bolando um dicionário vietnamita-português, que viria a publicar.",
+    "mutado": "Mas não adiantava chorar. Então fui à luta. Nghia comprou dicionários usados de português nos sebos. Aos poucos, com ajuda de colegas, foi bolando um dicionário vietnamita-português, que viria a publicar.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 17,
+    "original": "E será que, mesmo se não mudarmos os hábitos dramaticamente, o planeta tem salvação? Sim, até tem. É o que você vai descobrir a partir de agora. A tese vem de Ted Nordhaus e Michael Schellenberger, chamados pós-ambientalistas americanos.",
+    "mutado": "E será que, mesmo se não mudarmos os hábitos dramaticamente, o planeta tem salvação? Sim, até tem. É o que você vai descobrir a partir de agora. A tese vem de Ted Nordhaus e Michael Schellenberger, chamados pós-ambientalistas americanos.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 18,
+    "original": "Na Antiguidade, a ausência de redes encanadas e esgotos era suprida com a utilização de copos e bacias que permitiam a realização do banho. Geralmente, as pessoas se sentavam em uma cadeira enquanto despejavam pequenas porções de água nos lugares a serem higienizados. Mediante tantas dificuldades e a limitação de recursos, você já deve estar aliviado por ter o inestimável privilégio de fazer uso de uma cheirosa e suave barra de sabão. Pois saiba que os antigos também pensaram nisso!",
+    "mutado": "Na Antiguidade, a ausência de redes encanadas e esgotos era suprida com a utilização de copos e bacias que permitiam a realização do banho. Geralmente, as pessoas se sentavam em uma cadeira enquanto despejavam pequenas porções de água nos lugares a serem higienizados. Mediante tantas dificuldades e a limitação de recursos, você já deve estar aliviado por ter o inestimável privilégio de fazer uso de uma cheirosa e suave barra de sabão. Pois saiba que os antigos também pensaram nisso!",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 19,
+    "original": "Outras questões que Emile Durkheim propunha era acerca do avanço da individualização do sujeito social e o estudo dos fenômenos que compunham a formação de uma nova ordem social. No entanto, Durkheim acreditava que a principal função da sociologia era o estudo dos fatos sociais. A sociologia deveria se abster de estudar as individualidades dos sujeitos e se debruçar sobre estudos generalistas acerca dos fatos sociais, que são definidos por Durkheim como os aspectos de nossa sociedade que moldam as nossas ações em sociedade, tais como nossa língua, o Estado e a moral. Segundo Durkheim, os fatos sociais possuem três características principais: São externos ao indivíduo, ou seja, os fatos sociais existem independentemente de nossas vontades individuais, São de natureza coercitiva, o que quer dizer que eles possuem força para nos “obrigar” a agir de determinada maneira sob a ameaça de punições como o isolamento social, por exemplo, no caso de um comportamento socialmente inaceitável, São também generalistas, ou seja, atingem a todos sem exceções.",
+    "mutado": "Outras questões que Emile Durkheim propunha era acerca do avanço da individualização do sujeito social e o estudo dos fenômenos que compunham a formação de uma nova ordem social. No entanto, Durkheim acreditava que a principal função da sociologia era o estudo dos fatos sociais. A sociologia deveria se abster de estudar as individualidades dos sujeitos e se debruçar sobre estudos generalistas acerca dos fatos sociais, que são definidos por Durkheim como os aspectos de nossa sociedade que moldam as nossas ações em sociedade, tais como nossa língua, o Estado e a moral. Segundo Durkheim, os fatos sociais possuem três características principais: São externos ao indivíduo, ou seja, os fatos sociais existem independentemente de nossas vontades individuais, São de natureza coercitiva, o que quer dizer que eles possuem força para nos “obrigar” a agir de determinada forma sob a ameaça de punições como o isolamento social, por exemplo, no caso de um comportamento socialmente inaceitável, São também generalistas, ou seja, atingem a todos sem exceções.",
+    "quantidade_alteracoes": 1,
+    "alteracoes": [
+      {
+        "original": "maneira",
+        "novo": "forma",
+        "posicao": 870,
+        "motivo": "compatibilidade_morfologica_e_contextual"
+      }
+    ]
+  },
+  {
+    "indice_amostra": 20,
+    "original": "Outro grupo quis introduzir modificações na doutrina visando a aperfeiçoá-la, dando origem à Escola Maaiana. Sua grande expansão começou sob o impulso de Asoca, o famoso imperador indiano, que, no século III a.C., se tornou o primeiro governante a unificar a Índia. Cansado das atrocidades da guerra, Asoca se converteu ao ensinamento de não violência do budismo e o tornou a religião oficial do Império Mauria. Com isto, o budismo se propagou por grande parte da Ásia.",
+    "mutado": "Outro grupo quis introduzir modificações na doutrina visando a aperfeiçoá-la, dando origem à Escola Maaiana. Sua grande expansão começou sob o impulso de Asoca, o famoso imperador indiano, que, no século III a.C., se tornou o primeiro governante a unificar a Índia. Cansado das atrocidades da guerra, Asoca se converteu ao ensinamento de não violência do budismo e o tornou a religião oficial do Império Mauria. Com isto, o budismo se propagou por grande parte da Ásia.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 21,
+    "original": "O movimento dos corpos celestes ao redor das estrelas é dado pela lei da gravitação universal, em que o campo gravitacional da estrela atrai os demais corpos celestes. O mesmo ocorre com os satélites planetários: o campo gravitacional do sol e do planeta faz o satélite o orbitar. Conforme a primeira lei de Kepler, as órbitas dos planetas e dos satélites não são perfeitamente circulares. Elas apresentam excentricidade, e sua trajetória aproxima-se a formatos elípticos.",
+    "mutado": "O movimento dos corpos celestes ao redor das estrelas é dado pela lei da gravitação universal, em que o campo gravitacional da estrela atrai os demais corpos celestes. O mesmo ocorre com os satélites planetários: o campo gravitacional do sol e do planeta faz o satélite o orbitar. Conforme a primeira lei de Kepler, as órbitas dos planetas e dos satélites não são perfeitamente circulares. Elas apresentam excentricidade, e sua trajetória aproxima-se a formatos elípticos.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 22,
+    "original": "Com isto, o protetorado alemão passou a ter uma saída para o rio Zambeze, o qual permitia a navegação até o oceano Índico. O nome \"Caprivi\" é uma homenagem ao chanceler alemão Leo von Caprivi. Em 1904, os namas e os hereros se uniram contra os alemães invasores de suas terras nas chamadas guerras Hereras, que terminaram três anos depois com o genocídio dos namas e hereros. Em 1914, eclodiu a Primeira Guerra Mundial.",
+    "mutado": "Com isto, o protetorado alemão passou a ter uma saída para o rio Zambeze, o qual permitia a navegação até o oceano Índico. O nome \"Caprivi\" é uma homenagem ao chanceler alemão Leo von Caprivi. Em 1904, os namas e os hereros se uniram contra os alemães invasores de suas terras nas chamadas guerras Hereras, que terminaram três anos depois com o genocídio dos namas e hereros. Em 1914, eclodiu a Primeira Guerra Mundial.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 23,
+    "original": "Interessa-nos, aqui, apenas aqueles formados por duas unidades de monossacarídeos, também chamados dissacarídeos. Dissacarídeos são açúcares duplos constituídos, por ligação glicossídica, de dois monossacarídeos hexoses com desprendimento de uma molécula de água (síntese de desidratação). Dissacarídeos têm moléculas relativamente pequenas, solúveis em água, razão por que interferem, assim como os monossacarídeos no equilíbrio osmótico das células. São também a principal forma de transporte dos carboidratos.",
+    "mutado": "Interessa-nos, aqui, apenas aqueles formados por duas unidades de monossacarídeos, também chamados dissacarídeos. Dissacarídeos são açúcares duplos constituídos, por ligação glicossídica, de dois monossacarídeos hexoses com desprendimento de uma molécula de água (síntese de desidratação). Dissacarídeos têm moléculas relativamente pequenas, solúveis em água, razão por que interferem, assim como os monossacarídeos no equilíbrio osmótico das células. São também a principal forma de transporte dos carboidratos.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 24,
+    "original": "\"Quitanda\" vem de \"kitanda\", \"feira\". \"Quitute\" vem de \"kitutu\", \"indigestão\". \"Samba\" vem de \"semba\", \"umbigada\". \"Senzala\" vem de \"sanzala\".",
+    "mutado": "\"Quitanda\" vem de \"kitanda\", \"feira\". \"Quitute\" vem de \"kitutu\", \"indigestão\". \"Samba\" vem de \"semba\", \"umbigada\". \"Senzala\" vem de \"sanzala\".",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 25,
+    "original": "Aproximadamente quatrocentos negros escravizados fugiram de duas fazendas e se refugiaram na mata. Entre eles, muitos negros escravizados com nomes que faziam referência à cultura banto, como por exemplo Vicente Moçambique, Afonso Angola, Josefa Angola, Emília Conga e Justino Benguela. Os negros escravizados rebelados acabaram sendo recapturados, muitos deles, açoitados e Manuel Congo, enforcado. Em 2003, o Decreto 4 887 passou a regular a identificação e a legalização dos territórios remanescentes dos antigos quilombos.",
+    "mutado": "Aproximadamente quatrocentos negros escravizados fugiram de duas fazendas e se refugiaram na mata. Entre eles, muitos negros escravizados com nomes que faziam referência à cultura banto, como por exemplo Vicente Moçambique, Afonso Angola, Josefa Angola, Emília Conga e Justino Benguela. Os negros escravizados rebelados acabaram sendo recapturados, muitos deles, açoitados e Manuel Congo, enforcado. Em 2003, o Decreto 4 887 passou a regular a identificação e a legalização dos territórios remanescentes dos antigos quilombos.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 26,
+    "original": "Polígonos são figuras geométricas planas das formadas por segmentos de reta interligados entre si fechados (linha poligonal fechada). Um polígono possui os seguintes elementos: Os polígonos são classificados: Em termos das medidas de seus ângulos, um polígono pode ser: Não há restrições quanto ao número de lados n de um polígono desde que n ≥ 3. Embora apenas alguns possuam nomenclatura própria, segue uma tabela com alguns destes nomes: A título de curiosidade, são mostrados a seguir os nomes de alguns polígonos cujos números de lados são potências de 10: Veja as páginas \"triângulos\", pontos, linhas e círculos associados a um triângulo\" e \"triângulo retângulo\". Quadriláteros são as figuras geométricas planas formadas por quatro lados.",
+    "mutado": "Polígonos são figuras geométricas planas das formadas por segmentos de reta interligados entre si fechados (linha poligonal fechada). Um polígono possui os seguintes elementos: Os polígonos são classificados: Em termos das medidas de seus ângulos, um polígono pode ser: Não há restrições quanto ao número de lados n de um polígono desde que n ≥ 3. Embora apenas alguns possuam nomenclatura própria, segue uma tabela com alguns destes nomes: A título de curiosidade, são mostrados a seguir os nomes de alguns polígonos cujos números de lados são potências de 10: Veja as páginas \"triângulos\", pontos, linhas e círculos associados a um triângulo\" e \"triângulo retângulo\". Quadriláteros são as figuras geométricas planas formadas por quatro lados.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 27,
+    "original": "O referenciamento das células, absoluto ou relativo, tem esta qualidade: uma vez atribuído o referencial só se precisa mudar o valor dele e este valor se reflete nos cálculos que apontem para este endereço. É esta a ideia basilar de uma planilha. Experimente \"brincar\" um pouco com a coluna C, mudando seus valores e com a célula A16, mudando seus resultados.",
+    "mutado": "O referenciamento das células, absoluto ou relativo, tem esta qualidade: uma vez atribuído o referencial só se precisa mudar o valor dele e este valor se reflete nos cálculos que apontem para este endereço. É esta a ideia basilar de uma planilha. Experimente \"brincar\" um pouco com a coluna C, mudando seus valores e com a célula A16, mudando seus resultados.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 28,
+    "original": "Também foram criadas fábricas de charuto nos Estados Unidos, no México, na República Dominicana e na Jamaica. Em 1873, o alemão Gerhard Dannemann fundou a mais antiga fábrica de charutos do Brasil: a Dannemann. Em 1881, foi fundada em Niterói, no Brasil, a Imperial e Antiga Fábrica de Cigarros de São Domingos, que mais tarde se transferiria para a cidade de Cachoeira e se tornaria a Fábrica de Charutos Leite e Alves. Reza a lenda que a ordem para o levante que resultou na independência de Cuba da Espanha, em 1898, foi levada dentro de um charuto.",
+    "mutado": "Também foram criadas fábricas de charuto nos Estados Unidos, no México, na República Dominicana e na Jamaica. Em 1873, o alemão Gerhard Dannemann fundou a mais antiga fábrica de charutos do Brasil: a Dannemann. Em 1881, foi fundada em Niterói, no Brasil, a Imperial e Antiga Fábrica de Cigarros de São Domingos, que mais tarde se transferiria para a cidade de Cachoeira e se tornaria a Fábrica de Charutos Leite e Alves. Reza a lenda que a ordem para o levante que resultou na independência de Cuba da Espanha, em 1898, foi levada dentro de um charuto.",
+    "quantidade_alteracoes": 0,
+    "alteracoes": []
+  },
+  {
+    "indice_amostra": 29,
+    "original": "São Bento é o patrono da Europa e da Alemanha e seu dia de festa é o 11 de julho. O dia em que se comemora seu nascimento, 24 de junho, é motivo de festa em vários países. Na Catalunha espanhola, por exemplo, se celebra a \"revetlla de San Joan\" na sua véspera, com fogos de artifício, fogueiras, muita \"cava\" (vinho espumante espanhol) e \"coca\" (bolo típico catalão) com pinhões e frutas cristalizadas. No Brasil, sua festa se integra nas chamadas festas juninas, junto com as de São Pedro e Santo Antônio e é celebrada com fogueiras, música, comida (vinho quente, quentão, canjica) e roupas típicas.",
+    "mutado": "São Bento é o patrono da Europa e da Alemanha e seu dia de festa é o 11 de julho. O dia em que se comemora seu nascimento, 24 de junho, é motivo de festa em vários países. Na Catalunha espanhola, por exemplo, se celebra a \"revetlla de San Joan\" na sua véspera, com fogos de artifício, fogueiras, muita \"cava\" (vinho espumante espanhol) e \"coca\" (bolo típico catalão) com pinhões e frutas cristalizadas. No Brasil, sua festa se integra nas chamadas festas juninas, junto com as de São Pedro e Santo Antônio e é celebrada com fogueiras, música, alimentação (vinho quente, quentão, canjica) e roupas típicas.",
+    "quantidade_alteracoes": 1,
+    "alteracoes": [
+      {
+        "original": "comida",
+        "novo": "alimentação",
+        "posicao": 543,
+        "motivo": "compatibilidade_morfologica_e_contextual"
+      }
+    ]
+  }
+]
